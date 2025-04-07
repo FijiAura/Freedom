@@ -142,7 +142,7 @@ set(Launcher_Branding_LogoQRC "${PROJECT_SOURCE_DIR}/branding/logo.qrc")
 
 set(Launcher_META_URL "https://meta.multimc.org/v1/")
 set(Launcher_PASTE_EE_API_KEY "utLvciUouSURFzfjPxLBf5W4ISsUX4pwBDF7N1AfZ")
-set(Launcher_MSA_CLIENT_ID "499546d9-bbfe-4b9b-a086-eb3d75afb78f")
+set(Launcher_MSA_CLIENT_ID "")
 set(Launcher_IMGUR_CLIENT_ID "5b97b0713fba4a3")
 set(Launcher_BUG_TRACKER_URL "https://github.com/MultiMC/Launcher/issues")
 set(Launcher_DISCORD_URL "https://discord.gg/multimc")
