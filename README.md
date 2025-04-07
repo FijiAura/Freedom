@@ -2,13 +2,13 @@
   <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
 </p>
 
-MultiMC
+Freedom
 =======
 
-MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
+Freedom is a custom launcher for Minecraft that focuses on predictability, long term stability, simplicity, and Freedom.
 
 ## Development
-If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
+If you want to contribute, Don't put any malware.
 
 While blindly submitting PRs is definitely possible, they're not necessarily going to get accepted.
 
