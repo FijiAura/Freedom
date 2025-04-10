@@ -5,7 +5,7 @@
 Freedom
 =======
 
-Freedom is a custom launcher for Minecraft that focuses on predictability, long term stability, simplicity, and Freedom.
+Freedom is a custom launcher for Minecraft that focuses on predictability, long term stability, simplicity, and the Permissive Apache Lisence.
 
 ## Development
 If you want to contribute, Don't put any malware.
